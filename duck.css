@@ -9,7 +9,17 @@ body {
    font-weight: 400;
    font-size: 1.6rem;
    background-color: #fff;
+   text-align: center;
  }
-h3{
+h1{
    color: blueviolet;
+}
+
+dl{
+   display: float;
+   font-weight: bold;
+}
+
+dd{
+   font-weight: lighter;
 }
